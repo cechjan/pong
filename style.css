@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+/*
+@font-face {
+    font-family: "m04";
+    src: url("m04fatal_fury/m04.TTF"); 
+    src: local("m04"), url('m04fatal_fury/m04.TTF');
+}*/
+
+@font-face {
+    font-family: "addl";
+    src: url("addlgbitmap09/ADDLG___.TTF"); 
+    src: local("addl"), url('addlgbitmap09/ADDLG___.TTF');
+}
